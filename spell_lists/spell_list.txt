@@ -360,4 +360,4 @@ Witch-Bolt
 Word-of-Recall
 Wrathful-Smite
 Zone-of-Truth
-end
+endnow
